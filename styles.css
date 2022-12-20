@@ -35,3 +35,40 @@
     font-style: italic;
     color: #1F2937;
 }
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #1F2937;
+    height: 5vh;
+}
+
+nav li{
+    list-style: none;
+    line-height: 5vh;
+}
+
+nav p{
+    text-align: middle;
+    line-height: 5vh;
+}
+
+nav a:link{
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+nav a:hover{
+    color: #E5E7EB;
+}
+
+nav a:active{
+    color: #F9FAF8;
+}
+
+nav a:visited{
+    color: #E5E7EB;
+}
