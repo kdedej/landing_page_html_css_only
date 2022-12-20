@@ -1,0 +1,37 @@
+/*all these classes are made to be added to their respective element in css, emulating bootstrap*/
+.heroMainText{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.heroSecText{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.headerLogoText{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.infoHeaderText{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.buttonColor{
+    background-color: #3882F6;
+}
+
+.quoteSectBGColor{
+    background-color: #E5E7EB;
+}
+
+.quoteText{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
