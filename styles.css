@@ -36,6 +36,10 @@
     color: #1F2937;
 }
 
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -44,16 +48,18 @@ body{
 nav{
     background-color: #1F2937;
     height: 5vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
 }
 
 nav li{
     list-style: none;
-    line-height: 5vh;
+    line-height: 3vh;
 }
 
 nav p{
     text-align: middle;
-    line-height: 5vh;
+    line-height: 3vh;
 }
 
 nav a:link{
@@ -71,4 +77,24 @@ nav a:active{
 
 nav a:visited{
     color: #E5E7EB;
+}
+
+main img{
+    height: 100%;
+    width: 100%;
+}
+
+.firstSection{
+    background-color: #1F2937;
+}
+
+.firstSection button{
+    background-color: #3882F6;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    color: #F9FAF8;
 }
