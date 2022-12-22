@@ -55,6 +55,7 @@ nav{
 nav li{
     list-style: none;
     line-height: 3vh;
+    padding-left: 70px;
 }
 
 nav p{
