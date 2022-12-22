@@ -25,10 +25,6 @@
     background-color: #3882F6;
 }
 
-.quoteSectBGColor{
-    background-color: #E5E7EB;
-}
-
 .quoteText{
     font-size: 36px;
     font-weight: lighter;
@@ -115,4 +111,13 @@ main img{
     color: #7a7b7e;
     font-style: italic;
     font-weight: bold;
+}
+
+.thirdSection{
+    background-color: #E5E7EB;
+}
+
+.cit{
+    font-size: larger;
+    font-weight: bolder;
 }
