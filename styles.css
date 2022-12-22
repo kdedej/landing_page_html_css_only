@@ -98,3 +98,20 @@ main img{
     font-weight: bold;
     color: #F9FAF8;
 }
+
+.cardCostum{
+    width: 70%;
+}
+
+.imagePlaceholder{
+    height: 200px;
+    width: 200px;
+    border: #3882F6 solid 2px;
+    border-radius: 20px;
+}
+
+.secondSection p{
+    color: #7a7b7e;
+    font-style: italic;
+    font-weight: bold;
+}
