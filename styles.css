@@ -141,3 +141,11 @@ main img{
     font-size: larger;
     font-weight: bolder;
 }
+
+footer{
+    background-color: #1F2937;
+}
+
+footer p{
+    color: #E5E7EB;
+}
