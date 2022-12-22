@@ -1,5 +1,6 @@
 # landing_page_odin_1st
-First project for Odin.
+Project from the open source course Odin.
 
-Framework: Bootstrap
-Font used: roboto
+To shorten coding time I used Bootstrap so it's not exaclty "pure" CSS.
+
+Kasem "Kejsi" Dedej
